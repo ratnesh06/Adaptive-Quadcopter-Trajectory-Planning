@@ -1,4 +1,4 @@
-## Adaptive Quadcopter Trajectory Planning via Sampling-Based Algorithms
+## Quadcopter Trajectory Planning via Sampling-Based Algorithms
 
 This project, a part of course EE581, focuses on developing and simulating adaptive trajectory planning systems for quadcopters using sampling-based algorithms. The goal is to enhance the quadcopter's ability to navigate efficiently and safely in static environments, employing advanced techniques like Dijkstra's and A* algorithms for motion planning. 
 
