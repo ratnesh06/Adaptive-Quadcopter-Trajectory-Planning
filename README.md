@@ -1,6 +1,6 @@
 ## Quadcopter Trajectory Planning via Sampling-Based Algorithms
 
-This project, a part of course EE581, focuses on developing and simulating adaptive trajectory planning systems for quadcopters using sampling-based algorithms. The goal is to enhance the quadcopter's ability to navigate efficiently and safely in static environments, employing advanced techniques like Dijkstra's and A* algorithms for motion planning. 
+This project, part of course EE581, focuses on developing and simulating adaptive trajectory planning systems for quadcopters using sampling-based algorithms. It employs a dual algorithm strategy, combining the exhaustive search accuracy of Dijkstra's algorithm with the efficiency of the A* algorithm, optimizing real-time navigation and obstacle avoidance in complex environments. The goal is to enhance the quadcopter's ability to navigate efficiently and safely through static environments, utilizing these advanced techniques for motion planning. 
 
 ## Key features include:
 * **Vehicle Rotor Model**: A high-fidelity quadcopter model simulating real-world dynamics, created in MATLAB for accurate simulations and real-time analysis. It includes physical parameters such as mass, inertia, and rotor dynamics to ensure precise modelling.  
