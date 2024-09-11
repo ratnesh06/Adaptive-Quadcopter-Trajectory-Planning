@@ -15,3 +15,7 @@ This project, a part of course EE581, focuses on developing and simulating adapt
 [4] D. Mellinger and V. Kumar, “Minimum snap trajectory generation and control for quadrotors,” in Proc. of the IEEE Int. Conf. on Robotics and Automation, Shanghai, China, May 2011.  
 [5] D. E. Kirk, Optimal Control Theory. Dover Publica􀆟ons, 2004.  
 [6] Lu, Y. (2017). yrlu/quadrotor: Quadrotor Control, Path Planning and Trajectory Optimization (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.6796215
+
+## Contributors
+* Ratnesh Yadav  
+* Dhruva Uplap  
